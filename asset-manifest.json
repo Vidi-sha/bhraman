@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bhraman/static/css/main.0cec572b.css",
+    "main.js": "/bhraman/static/js/main.012c4cb5.js",
+    "static/media/img-home.jpeg": "/bhraman/static/media/img-home.3a91cf56e4b8e92f8435.jpeg",
+    "static/media/img-2.jpg": "/bhraman/static/media/img-2.0d1a03f6f6c453b0161c.jpg",
+    "static/media/img-1.jpg": "/bhraman/static/media/img-1.d1ced3ea09f59fa220fa.jpg",
+    "static/media/img-8.jpg": "/bhraman/static/media/img-8.73f0b5a846f102dc03d0.jpg",
+    "index.html": "/bhraman/index.html",
+    "main.0cec572b.css.map": "/bhraman/static/css/main.0cec572b.css.map",
+    "main.012c4cb5.js.map": "/bhraman/static/js/main.012c4cb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cec572b.css",
+    "static/js/main.012c4cb5.js"
+  ]
+}
